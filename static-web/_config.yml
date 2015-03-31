@@ -1,0 +1,18 @@
+# Site settings
+title: Buddelkiste
+email: hello@lukasender.at
+description: > # this means to ignore newlines until "baseurl:"
+    Buddelkiste - Every boy (even "grown up" boys ;)) needs a sandbox to dig
+    and construct probably pointless stuff. This is my verison of it. And, of
+    course, in a sandbox you most probably can find castles. Here, they are
+    called blog posts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://blog.lukasender.at" # the base hostname & protocol for your site
+twitter_username: lukasender
+github_username: lumannnn
+timezone: Europe/Vienna
+permalink: pretty
+
+# Build settings
+markdown: kramdown
+highlighter: pygments

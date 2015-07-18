@@ -189,6 +189,40 @@
 }
 
 
+/**
+ * Views Counter
+ */
+
+.views.highlight {
+    background-color: #fcf7a9;
+    -webkit-animation-name: highlight 500ms;
+    -moz-animation-name: highlight 500ms;
+    animation-name: highlight 500ms;
+}
+@-webkit-keyframes highlight {
+  from {
+    background-color: #fcf7a9;
+  }
+  to {
+    background-color: #fff;
+  }
+}
+@-moz-keyframes highlight {
+  from {
+    background-color: #fcf7a9;
+  }
+  to {
+    background-color: #fff;
+  }
+}
+@keyframes highlight {
+  from {
+    background-color: #fcf7a9;
+  }
+  to {
+    background-color: #fff;
+  }
+}
 
 /**
  * Posts

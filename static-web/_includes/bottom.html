@@ -6,3 +6,39 @@
     ga('create', 'UA-42443336-1', 'auto');
     ga('send', 'pageview');
 </script>
+<script src="https://cdn.socket.io/socket.io-1.3.5.js"></script>
+<script>
+    (function(io){
+        var socket = io('{{ site.socketio }}');
+        var post = window.location.pathname;
+        socket.emit('post view', {
+            path: post
+        });
+        function clearTimers(timers) {
+            for (var i = 0; i < timers.length; i++) {
+                clearTimeout(timers[i]);
+            }
+            return [];
+        }
+        function highlight(elem) {
+            elem.className = 'views highlight';
+            return setTimeout(function() {
+                elem.className = 'views';
+            }, 500)
+        }
+        var viewsElems = document.getElementsByClassName('views');
+        var timers = [];
+        socket.on('stats ' + post, function(stats) {
+            var views = stats.post;
+            var viewsElem = null;
+            if (timers.length > 0) {
+                timers = clearTimers(timers);
+            }
+            for (var i = 0; i < viewsElems.length; i++) {
+                viewsElem = viewsElems[i];
+                viewsElem.innerText = views;
+                timers.push(highlight(viewsElem));
+            }
+        });
+    })(io);
+</script>

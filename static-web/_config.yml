@@ -12,7 +12,7 @@ twitter_username: lukasender
 github_username: lumannnn
 timezone: Europe/Vienna
 permalink: pretty
-socketio: http://ws.localhost:4011
+socketio: http://ws.buddelkiste.local:1339
 
 # Build settings
 markdown: kramdown

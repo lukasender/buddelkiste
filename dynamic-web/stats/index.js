@@ -74,6 +74,9 @@ function updateStats(path, newValueCallback, threshold) {
   if (++requestsCount % syncThreshold == 0) {
     writeStats(statsData);
   }
+  if (requestsCount > 100000) {
+    requestsCount = 0;
+  }
   newValueCallback(value);
 }
 

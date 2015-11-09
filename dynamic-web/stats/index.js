@@ -65,7 +65,7 @@ function writeStats(stats) {
 
 function updateStats(path, newValueCallback, threshold) {
   /**
-   * @param path: a unquie identifier: The blog posts's path in this case.
+   * @param path: a unique identifier: The blog posts's path in this case.
    */
   var value = statsData[path] || 0;
   var syncThreshold = threshold || THRESHOLD;

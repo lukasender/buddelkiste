@@ -73,7 +73,10 @@ Aus Neugier bin ich dem Link dann aber doch mal gefolgt. Und auch hier zeigt
 sich dasselbe Muster. Der Link öffnet eine Website die Amazon.de zum
 verwechseln ähnlich sieht. Das Design ist von Amazon kopiert und wirkt seriös.
 Ist es aber keines Wegs! Es steht Amazon drauf, aber wir sind ganz wo anders
-gelandet. Nämlich auf "https://konto-instandhaltung.info/authentification/8314..."
+gelandet. Nämlich auf
+"https://konto-instandhaltung.info/authentification/8314...". Diese Adresse hat
+nichts mit Amazon zu tun. Die Adresse unterscheidet sich zumdem zu der aus der
+Email ("gg.gg/4um1t") und der Email-Adresse ("konto-neuigkeiten.info") selbst!
 
 ![Wir sind nicht auf Amazon.de](/images/fake-website-01.png)
 

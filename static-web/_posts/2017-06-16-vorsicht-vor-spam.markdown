@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Vorsicht vor Phishing Emails!"
-date:   2017-06-16 10:25:42
+date:   2017-06-16 10:25:42 +0200
 categories: security
+image: /imgages/fake-email-02.png
 tags: security spam phishing scam
 ---
 Immer wieder mal dringen Phising Emails bis zur Inbox durch. Phishing Emails

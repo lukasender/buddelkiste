@@ -4,6 +4,10 @@ title:  "Vorsicht vor Phishing Emails!"
 date:   2017-06-16 10:25:42 +0200
 categories: security
 image: /images/fake-email-02.png
+
+description: Phishing Emails werden immer schwieriger zu erkennen. Hier zeige
+ich simple Tricks wie ihr sie doch erkennen könnt und euch selber schützt!
+
 tags: security spam phishing scam
 ---
 Immer wieder mal dringen Phising Emails bis zur Inbox durch. Phishing Emails

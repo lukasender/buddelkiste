@@ -80,12 +80,11 @@ gelandet. Nämlich auf "https://konto-instandhaltung.info/authentification/8314.
 Wer hier seine Daten eingibt, übergibt dem Angreifer die Daten!
 
 Ich hoffe dieser Blog Post hat dir etwas mehr darüber verraten, wie Angreifer
-über Emails an deine Daten kommen will und du dich jetzt besser davor schützen
+über Emails an deine Daten kommen wollen und du dich besser davor schützen
 kannst.
 
-Teil es auch euren Freunden mit und helfen ihnen sich selbst auch besser zu
-schützen!
+Teil es deinen Freunden mit und hilf ihnen sich selbst besser zu schützen!
 
-Die Welt ist aber zum Glück nicht voller Bösewichte. Das Internet hat viele
+Die Welt ist aber zum Glück nicht voller Bösewichte ;) Das Internet hat viele
 nützliche, positive und sichere Websiten.
-In diesem Sinne wünsche ich frohes und sicheres Surfen! :)
+In diesem Sinne wünsche ich frohes und sicheres surfen!

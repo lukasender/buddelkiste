@@ -27,7 +27,7 @@ um ein echtes Email von Amazon zu imitieren.
 
 ![Fake Email welches Amazon.de imitiert](/images/fake-email-01.png)
 
-Wie kann man es dann aber trotzdem als bösartiges Email erkennen?
+## Wie kann man es dann aber trotzdem als bösartiges Email erkennen?
 
 Erstmal sollte man den Text genau durchlesen. Meistens wird erklärt das irgend
 etwas deaktiviert wurde, obwohl die Benutzerkonten noch einwandfrei
@@ -36,7 +36,9 @@ eingestellt wird, wenn man nicht seine Daten bestätigt oder gar Geld an XYZ
 überweist.  Tut das nicht! Niemals. Wenn so etwas verlangt wird, fragt direkt
 bei z.B.  Amazon direkt nach.
 
-Überprüft von wem die Email kommt. Kommt die Email auch von Amazon? Auf den
+### Überprüft von wem die Email kommt.
+
+Kommt die Email auch von Amazon? Auf den
 ersten Blick ja. Aber wenn man dann die vollständige Email-Adresse ansieht,
 dann kommt die von jemand ganz anderem als Amazon. In diesem Beispiel von
 "service@konto-neugikeiten.info".
@@ -50,18 +52,22 @@ Manchmal wählen die Angreifer aber Email-Adressen, die der echten sehr ähnlich
 ist. Die Email-Adresse hat dann zumindest "amazon" in ihrem Namen mit drinnen.
 Wenn ihr eine solche Email bekommt, könnt ihr noch einen weiteren Trick
 anwenden.
-Überprüft, wohin die enthaltenen Links und Knöpfe führen. Nehmt für nicht euer
-Smartphone, sondern einen PC oder Laptop. Fährt mit dem Mauszeiger über den
-Link oder Knopf. Nicht klicken! Nur darüber fahren und einige Sekunden warten.
-Dann erscheint eine kleine Info, wohin der Link führt.
-In diesem Fall zu "gg.gg/4um1t". Das ist unter keinen Umständen eine gültige
-Amazon.de Adresse
+
+### Überprüft, wohin die enthaltenen Links und Knöpfe führen.
+
+Nehmt dafür am besten nicht euer Smartphone, sondern einen PC oder Laptop.
+Fährt mit dem Mauszeiger über den Link oder Knopf. Nicht klicken! Nur darüber
+fahren und einige Sekunden warten.  Dann erscheint eine kleine Info, wohin der
+Link führt.  In diesem Fall zu "gg.gg/4um1t". Das ist unter keinen Umständen
+eine gültige Amazon.de Adresse
 
 ![Der Mauszeiger verräht euch, wohin der Link führt](/images/fake-email-03.png)
 
 Ab jetzt könnt ihr euch sicher sein, dass ihr die Email ohne weitere Aktionen
 einfach löschen könnt. Und auch solltet! Der Verfasser der Email hat nichts
 gutes mit euch vor.
+
+### Habt ihr doch auf den Link geklickt?
 
 Aus Neugier bin ich dem Link dann aber doch mal gefolgt. Und auch hier zeigt
 sich dasselbe Muster. Der Link öffnet eine Website die Amazon.de zum
